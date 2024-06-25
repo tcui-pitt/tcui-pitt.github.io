@@ -31,7 +31,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 * [From Stream to Pool: Dynamic Pricing for Customers with Diminishing Marginal Utility](https://arxiv.org/abs/2310.19220) w/ Su Jia and Thomas Lavastida.
 
-* [Rating Systems Design: Structure, Incentives, and Fees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875071) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) [[Code]](https://github.com/tcui-pitt/Ratings)
+* [Rating Systems Design: Structure, Incentives, and Fees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875071) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) [[Codes]](https://github.com/tcui-pitt/Ratings)
   
 # **Work in Progress**
  
