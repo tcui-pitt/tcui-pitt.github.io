@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-_Note_: Author ordering on all papers is alphabetical if not specified, as is convention in OR/MS. (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively.
+_Note_: Author ordering on all papers is alphabetical if not specified, as is convention in OR/MS. (**C**) and (**J**) denote the preliminary conference version and the full journal version, respectively.
 # **Accepted Papers**
 * [Optimizing Two-Truck Platooning with Deadlines](https://ieeexplore.ieee.org/document/9944383) w/ Wenjie Xu* and Minghua Chen (*: co-primary authors).[[Direct Link]](https://tcui-pitt.github.io/files/2truckplatooning.TITS.22.pdf) 
   * (**J**) Accepted in IEEE Transactions on Intelligent Transportation Systems, 2022. 
@@ -34,6 +34,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 * [Rating Systems Design: Structure, Incentives, and Fees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875071) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) [[Codes]](https://github.com/tcui-pitt/Ratings)
   * (**J**) Under Review.
+  * <span style="color: orange;">Finalist, POMS College of Service Operations Management (CSOM) Best Student Paper, 2025.</span>
   
 # **Work in Progress**
  
