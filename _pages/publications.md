@@ -35,7 +35,11 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 * [Rating Systems Design: Structure, Incentives, and Fees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875071) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) [[Codes]](https://github.com/tcui-pitt/Ratings)
   * (**J**) Under Review.
   * <span style="color: orange;">Finalist, POMS College of Service Operations Management (CSOM) Best Student Paper, 2025.</span>
-  
+
+* [Can Price Discrimination be Progressive?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141372) w/ Max Biggs, Michael L. Hamilton and Enfeng Xing. [[Codes]](https://github.com/tcui-pitt/Progressive_Pricing)
+  * (**J**) Under Review.
+
+ 
 # **Work in Progress**
  
  * [Revenue, Access, and Market Balance in Online Dating]() w/ Michael L. Hamilton and Qiqi Hao.
