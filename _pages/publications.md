@@ -38,7 +38,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 * [Can Price Discrimination be Progressive?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141372) w/ Max Biggs, Michael L. Hamilton and Enfeng Xing. [[Codes]](https://github.com/tcui-pitt/Progressive_Pricing)
   * (**J**) Under Review.
-  * <span style="color: orange;">Finalist, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span>
+  * <span style="color: orange;">Third Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span>
 
  
 # **Work in Progress**
