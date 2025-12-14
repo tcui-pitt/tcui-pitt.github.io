@@ -40,8 +40,3 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
   * (**J**) Major Revision at Operations Research.
   * <span style="color: orange;">Third Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span>
 
- 
-<!# **Work in Progress**
- 
- * [Revenue, Access, and Market Balance in Online Dating]() w/ Michael L. Hamilton and Qiqi Hao.
--->
