@@ -44,3 +44,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 * [From Stream to Pool: Dynamic Pricing for Customers with Diminishing Marginal Utility](https://arxiv.org/abs/2310.19220) w/ Su Jia and Thomas Lavastida.
   * (**J**) Under Revision.
 
+* [Unit-Demand Pricing for Min-Buying Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5178133) w/ Michael Hamilton, Jourdain Lamperski and Kasra Ganjizadeh Tari.
+  * (**J**) Submitted.
+
+
