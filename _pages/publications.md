@@ -27,6 +27,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 * [Can Price Discrimination be Progressive?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141372) w/ Max Biggs, Michael L. Hamilton and Enfeng Xing. [[Codes]](https://github.com/tcui-pitt/Progressive_Pricing)
   * (**J**) Major Revision at Operations Research.
   * <span style="color: orange;">Third Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span>
+*[Learning to Price in Feature-Based Pool Markets under Censored Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7543259)
 
 * [The Effects of Competition on Corporate Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344348) w/ Esther Gal-Or, Mike Gordon, Michael L. Hamilton, and Jennifer Shang. [[Codes]](https://github.com/tcui-pitt/Sustainable_Investment)
   * (**J**) Submitted
