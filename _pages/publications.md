@@ -26,10 +26,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 # **Working Papers**
 * [Can Price Discrimination be Progressive?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141372) w/ Max Biggs, Michael L. Hamilton and Enfeng Xing. [[Codes]](https://github.com/tcui-pitt/Progressive_Pricing)
   * (**J**) Major Revision at Operations Research.
-  * <span style="color: orange;">Third Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span>
-  
-* [Learning to Price in Feature-Based Pool Markets under Censored Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7543259)
-  * Accepted in *The 22nd Conference on Web and Internet Economics (**WINE**)*, 2026. 
+  * <span style="color: orange;">Third Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, 2025.</span> 
 
 * [The Effects of Competition on Corporate Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344348) w/ Esther Gal-Or, Mike Gordon, Michael L. Hamilton, and Jennifer Shang. [[Codes]](https://github.com/tcui-pitt/Sustainable_Investment)
   * (**J**) Submitted
@@ -40,6 +37,9 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
   * (**J**) Under Revision.
   * (C) Accepted to Workshop on Two-sided Marketplace Optimization: Search, Discovery, Matching, Pricing & Growth in conjunction with KDD Conference (TSMO-KDD), 2025.
   * <span style="color: orange;"> Finalist, POMS College of Service Operations Management (CSOM) Best Student Paper, 2025.</span>
+
+* [Learning to Price in Feature-Based Pool Markets under Censored Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7543259)
+  * Accepted in *The 22nd Conference on Web and Internet Economics (**WINE**)*, 2026.
 
 * [From Stream to Pool: Dynamic Pricing for Customers with Diminishing Marginal Utility](https://arxiv.org/abs/2310.19220) w/ Su Jia and Thomas Lavastida.
   * (**J**) Under Revision.
